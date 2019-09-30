@@ -38,6 +38,7 @@ public class Swagger2Config {
 
     }
 
+    //swagger接口的注解
     private ApiInfo webApiInfo() {
 
         return new ApiInfoBuilder()
